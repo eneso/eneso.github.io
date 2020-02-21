@@ -1,4 +1,16 @@
 {
-	"folders": [],
-	"settings": {}
+	"folders": [
+		{
+			"path": "C:\\Users\\eoguz\\Desktop\\dev\\web\\1"
+		},
+		{
+			"path": "C:\\Users\\eoguz\\Desktop\\dev\\web\\2"
+		},
+		{
+			"path": "C:\\Users\\eoguz\\Desktop\\dev\\web\\3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1"
+	}
 }
