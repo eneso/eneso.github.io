@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  -title: "AAEWS"
+  - title: "AAEWS"
   url: /AAEWS/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
