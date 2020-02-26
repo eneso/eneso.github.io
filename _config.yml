@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Enes Oguz"
-  avatar           : ""
+  avatar           : "assets/images/profile.png"
   bio              : "Portfolio"
   location         : "Utah, SLC"
   email            :
