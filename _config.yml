@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Enes Oguz"
-  avatar           : /eneso.github.io/images/profile.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets\images\profile.png"
   bio              : "Portfolio"
   location         : "Utah, SLC"
   email            :
