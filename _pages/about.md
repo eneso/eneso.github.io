@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-    image: ""
+    image: "assets\images\profile.png"
 ---
 
 Motivated and adaptive Computer Engineer with strong skills in software development as well as in hardware knowledge and circuits. 
