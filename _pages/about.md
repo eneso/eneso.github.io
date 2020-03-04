@@ -1,10 +1,8 @@
 ---
-layout: archive
 title: "About"
 permalink: /about/
-author_profile: true
 header:
-    image: "assets/images/20180714_100614.jpg"
+    image: ""
 ---
 
 Motivated and adaptive Computer Engineer with strong skills in software development as well as in hardware knowledge and circuits. 
