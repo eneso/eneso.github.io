@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 author_profile: true
 header:
-    image: "assets/images/20200301_112214.jpg"
+    image: ""
     caption: "Photo credit: Enes Oguz. Taken in Red Rock Country - Utah during the Snow Canyon hike."
 ---
 
