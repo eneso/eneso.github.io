@@ -1,6 +1,8 @@
 ---
+layout: archive
 title: "About"
 permalink: /about/
+author_profile: true
 header:
     image: "assets/images/20180707_121107.jpg"
 ---
