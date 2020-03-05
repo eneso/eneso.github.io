@@ -4,8 +4,8 @@ title: "About"
 permalink: /about/
 author_profile: true
 header:
-    image: ""
-    caption: "Photo credit: Enes Oguz. Taken in Red Rock Country - Utah during the Snow Canyon hike."
+    image: "assets/images/20200301_112214.jpg"
+    caption: "Photo credit: Enes Oguz. Taken in Red Rock Country - Utah during my Snow Canyon hike."
 ---
 
 Motivated and adaptive Computer Engineer with strong skills in software development as well as in hardware knowledge and circuits. 
