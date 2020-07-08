@@ -4,6 +4,7 @@ date: 2020-07-07
 tags: [Smart Home, Low Cost, Smart Outlet]
 categories: jekyll update
 published: true
+author_profile: true
 permalink: /:title/
 layout: post
 ---

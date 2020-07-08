@@ -4,6 +4,7 @@ date: 2020-07-06
 tags: [Autonomous, Drone, EWS]
 categories: jekyll update
 published: true
+author_profile: true
 permalink: /:title/
 layout: post
 ---
