@@ -6,7 +6,7 @@ categories: jekyll update
 published: true
 author_profile: true
 permalink: /:title/
-layout: post
+layout: archive
 ---
 # Artificial Neural Network
 In communication and writing for engineers class, I wrote about artificial neural network which had my utmost interest at the time: [ANN](https://drive.google.com/file/d/1QZY6ViE2c3ncuC7nnn1qkWGvJikDFQ5K/view?usp=sharing)
