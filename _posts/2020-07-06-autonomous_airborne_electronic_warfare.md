@@ -1,5 +1,4 @@
 ---
-title: "Autonomous Airborne Electronic Warfare System"
 date: 2020-07-06
 tags: [Autonomous, Drone, EWS]
 categories: jekyll update

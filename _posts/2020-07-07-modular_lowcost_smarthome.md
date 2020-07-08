@@ -1,5 +1,4 @@
 ---
-title: "Modular low-cost smarthome system"
 date: 2020-07-07
 tags: [Smart Home, Low Cost, Smart Outlet]
 categories: jekyll update
